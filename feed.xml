@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://jomccoy.github.io/datanotes/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jomccoy.github.io/datanotes/" rel="alternate" type="text/html" /><updated>2020-04-09T13:24:40-05:00</updated><id>https://jomccoy.github.io/datanotes/feed.xml</id><title type="html">Data Notes Blog</title><subtitle>A blog about data and learning</subtitle><entry><title type="html">Myfirstblogpostfromword</title><link href="https://jomccoy.github.io/datanotes/2020/04/09/MyFirstBlogPostFromWord.html" rel="alternate" type="text/html" title="Myfirstblogpostfromword" /><published>2020-04-09T00:00:00-05:00</published><updated>2020-04-09T00:00:00-05:00</updated><id>https://jomccoy.github.io/datanotes/2020/04/09/MyFirstBlogPostFromWord</id><content type="html" xml:base="https://jomccoy.github.io/datanotes/2020/04/09/MyFirstBlogPostFromWord.html">&lt;p&gt;&lt;strong&gt;This is my new post&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://jomccoy.github.io/datanotes/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jomccoy.github.io/datanotes/" rel="alternate" type="text/html" /><updated>2020-04-09T13:32:55-05:00</updated><id>https://jomccoy.github.io/datanotes/feed.xml</id><title type="html">Data Notes Blog</title><subtitle>A blog about data and learning</subtitle><entry><title type="html">Myfirstblogpostfromword</title><link href="https://jomccoy.github.io/datanotes/2020/04/09/MyFirstBlogPostFromWord.html" rel="alternate" type="text/html" title="Myfirstblogpostfromword" /><published>2020-04-09T00:00:00-05:00</published><updated>2020-04-09T00:00:00-05:00</updated><id>https://jomccoy.github.io/datanotes/2020/04/09/MyFirstBlogPostFromWord</id><content type="html" xml:base="https://jomccoy.github.io/datanotes/2020/04/09/MyFirstBlogPostFromWord.html">&lt;p&gt;&lt;strong&gt;This is my new post&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hello world&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;First&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Second&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Third&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;That’s all I have to say about that.&lt;/p&gt;</content><author><name></name></author><summary type="html">This is my new post</summary></entry><entry><title type="html">My Second Blog Post From Word</title><link href="https://jomccoy.github.io/datanotes/2020/04/09/My-Second-Blog-Post-From-Word.html" rel="alternate" type="text/html" title="My Second Blog Post From Word" /><published>2020-04-09T00:00:00-05:00</published><updated>2020-04-09T00:00:00-05:00</updated><id>https://jomccoy.github.io/datanotes/2020/04/09/My-Second-Blog-Post-From-Word</id><content type="html" xml:base="https://jomccoy.github.io/datanotes/2020/04/09/My-Second-Blog-Post-From-Word.html">&lt;p&gt;&lt;strong&gt;This is my new post&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Hello world&lt;/p&gt;
 
